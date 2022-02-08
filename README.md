@@ -87,6 +87,8 @@ A little mini JavaScript project that allows users to work out the cost of a bil
 
 * I decided i would use the Google fonts [Baloo Bhaijaan 2](https://fonts.google.com/specimen/Baloo+Bhaijaan+2?query=baloo#about) Baloo Bhaijaan 2 is a perfect blend of pointy paws in a coat of fur, Baloo is an affable display typeface by Ek Type. Available in nine Indian scripts plus Arabic along with a Latin counterpart, the family is Unicode compliant and libre licensed.
 
+![Image of how the font will look](assets/images/font_example.png)
+
 #### **ICONS**
 
 * I decided i would use [Icons8](https://icons8.com/) icons for the project. Icons8 has a wide range of colorful and animated icons that are free to use. 
@@ -138,7 +140,7 @@ A little mini JavaScript project that allows users to work out the cost of a bil
 
 ### **2.4 Bill Breakdown**
 
-![Image of bill breakdown](assets/images/.png)
+![Image of bill breakdown](assets/images/bill_breakdown.png)
 
 * The bill breakdown section lets the user know the total bill amount (Including tip), the value of the tip, and finally how much each person owes.   
 

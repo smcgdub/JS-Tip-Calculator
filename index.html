@@ -84,6 +84,41 @@
     </div>
   </section>
 
+  <!-- Bill breakdown -->
+  <section>
+    <div class="container animate__animated animate__fadeInBottomRight">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="text-center">Bill Breakdown</h2>
+          <!-- Bill Total -->
+          <label for="">Bill & Tip Total</label>
+          <div class="input-group mb-3">
+            <input id="bill_total_display" type="number" class="form-control" placeholder="0.00" aria-label="0.00"
+              aria-describedby="basic-addon2" disabled></strong>
+            <span class="input-group-text" id="basic-addon2"><img
+                src="https://img.icons8.com/doodle/40/000000/money.png" /></span>
+          </div>
+          <!-- Total Tip Value -->
+          <label for="">Tip Amount</label>
+          <div class="input-group mb-3">
+            <input id="tip_percent_display" type="number" class="form-control" placeholder="0.00" aria-label="0.00"
+              aria-describedby="basic-addon2" minlength="1" maxlength="3" disabled>
+            <span class="input-group-text" id="basic-addon2"><img
+                src="https://img.icons8.com/external-filled-outline-lima-studio/40/000000/external-tip-hotel-filled-outline-lima-studio.png" /></span>
+          </div>
+          <!-- Amount due per person -->
+          <label for="">Each Person Pays</label>
+          <div class="input-group mb-3">
+            <input id="each_person_pays_display" type="number" class="form-control" placeholder="0.00" aria-label="0.00"
+              aria-describedby="basic-addon2" minlength="1" maxlength="20" disabled>
+            <span class="input-group-text" id="basic-addon2"><img
+                src="https://img.icons8.com/color/40/000000/who-skin-type-1.png" /></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Optional JavaScript; choose one of the two! -->
   <!-- Option 1: Bootstrap Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
