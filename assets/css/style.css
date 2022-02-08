@@ -26,3 +26,14 @@ body {
 #number_of_people_input {
   background-color: beige;
 }
+
+/* Buttons */
+.btn-success:hover {
+  background-color: transparent;
+  color: #198754;
+}
+
+.btn-dark:hover {
+  background-color: transparent;
+  color: #000;
+}
