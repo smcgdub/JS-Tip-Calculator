@@ -146,6 +146,8 @@ A little mini JavaScript project that allows users to work out the cost of a bil
 
 ### **2.5 Footer**
 
+![Image of footer](assets/images/footer.png)
+
 * The footer contains the basic information on the site and the copyright.
 
 ### **2.6 Features Left To Implement**
