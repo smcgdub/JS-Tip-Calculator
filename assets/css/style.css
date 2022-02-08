@@ -19,3 +19,10 @@ body {
   font-family: 'Baloo Bhaijaan 2', cursive;
   overflow-x: hidden;
 }
+
+/* Inputs */
+#bill_total_input,
+#tip_percent_input,
+#number_of_people_input {
+  background-color: beige;
+}
