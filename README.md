@@ -194,9 +194,9 @@ To deploy the site on Github i undertook the following steps:
 
 You will then receive a confirmation saying the page has been published and also be provided with the link where people can view your site.
 
-![Image of page published confirmation](assets/images/github-pages-published.png)
+![Image of page published confirmation](assets/images/page_published.png)
 
-The link to view the published site can be found by clicking [Here]()
+The link to view the live site can be found by clicking [Here](https://smcgdub.github.io/JS-Tip-Calculator/)
 
 ### **5.2 Cloning**
 
@@ -261,6 +261,6 @@ Feel free to contact me on any of the following channels:<br>
 
 ## **8. Contact**
 
-* 8.1  This website and all of its content is for educational purposes only.
+* 8.1  This website and all of its content is for educational purposes only. There is no monetization generated from this site.
 
 <hr>
