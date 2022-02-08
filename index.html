@@ -30,6 +30,60 @@
     </div>
   </nav>
 
+  <!-- Horizontal Line -->
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <hr class="mt-0">
+      </div>
+    </div>
+  </div>
+
+  <!-- User Input fields -->
+  <section>
+    <div class="container animate__animated animate__fadeInBottomLeft">
+      <div class="row">
+        <div class="col-12">
+          <!-- Bill Total -->
+          <form action="">
+            <label for="">Total Bill</label>
+            <div class="input-group mb-3">
+              <input id="bill_total_input" type="number" class="form-control" placeholder="0.00"
+                aria-label="bill-total-input" aria-describedby="basic-addon2" required>
+              <span class="input-group-text" id="basic-addon2"><img
+                  src="https://img.icons8.com/doodle/40/000000/money.png" /></span>
+            </div>
+            <!-- Tip % -->
+            <label for="">Tip Percentage %</label>
+            <div class="input-group mb-3">
+              <input id="tip_percent_input" type="number" class="form-control" placeholder="0%"
+                aria-label="tip-percent-input" aria-describedby="basic-addon2" minlength="1" maxlength="3" required>
+              <span class="input-group-text" id="basic-addon2"><img
+                  src="https://img.icons8.com/external-filled-outline-lima-studio/40/000000/external-tip-hotel-filled-outline-lima-studio.png" /></span>
+            </div>
+            <!-- Number of people -->
+            <label for="">Number Of People</label>
+            <div class="input-group mb-3">
+              <input id="number_of_people_input" type="number" class="form-control" placeholder="0" min="1" step="1"
+                onkeypress="return event.charCode >= 48 && event.charCode <= 57" aria-label="Number of people"
+                aria-describedby="basic-addon2" required>
+              <span class="input-group-text" id="basic-addon2"><img
+                  src="https://img.icons8.com/color/40/000000/who-skin-type-1.png" /></span>
+            </div>
+          </form>
+        </div>
+      </div>
+      <!-- Buttons -->
+      <div class="row">
+        <div class="col text-center text-md-start">
+          <button id="calculate_btn" type="submit" class="btn btn-success">Do the maths</button>
+          <button id="reset_btn" type="button" class="btn btn-dark">Reset Inputs</button>
+        </div>
+      </div>
+      <hr>
+    </div>
+  </section>
+
   <!-- Optional JavaScript; choose one of the two! -->
   <!-- Option 1: Bootstrap Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"

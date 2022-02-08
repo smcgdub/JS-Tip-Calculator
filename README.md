@@ -118,19 +118,19 @@ A little mini JavaScript project that allows users to work out the cost of a bil
 
 ### **2.1 The Navbar**
 
-![Image of Navbar](assets/images/.png)
+![Image of Navbar](assets/images/navbar.png)
 
 * The Navbar is a very basic bootstrap Navbar that just holds the tip logo and the name of the site which is Tip Calculator. On mobile devices the logo and the site name will always stay centered. As the site is just a single page there is no need for a mobile hamburger menu
 
 ### **2.2 User Inputs** 
 
-![Image of user inputs](assets/images/.png)
+![Image of user inputs](assets/images/user_inputs.png)
 
 * The user only has 3x inputs to work with. Total bill, Tip percentage they wish to leave, and the number of people who will split the bill. All of the input fields are number only fields to stop users inputting letters in. The number of people field also only accepts whole numbers so users cant input a decimal field and input something like 2.5 people will split the bill. 
 
 ### **2.3 Action Buttons**
 
-![Image of action buttons](assets/images/.png)
+![Image of action buttons](assets/images/action_buttons.png)
 
 * There are 2 buttons for the user to interact with. The first one will trigger the calculation once the user has added all of the inputs into the input field. The second button will reset the calculator incase the user wishes to start all over again.
 
