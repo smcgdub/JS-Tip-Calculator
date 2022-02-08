@@ -142,7 +142,7 @@ A little mini JavaScript project that allows users to work out the cost of a bil
 
 ![Image of bill breakdown](assets/images/bill_breakdown.png)
 
-* The bill breakdown section lets the user know the total bill amount (Including tip), the value of the tip, and finally how much each person owes.   
+* The bill breakdown section lets the user know the total bill amount (Including tip), the value of the tip, and finally how much each person owes. These input fields have been disabled so users are unable to alter or adjust the information that gets displayed.   
 
 ### **2.5 Footer**
 

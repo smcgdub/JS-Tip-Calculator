@@ -17,10 +17,6 @@ calculateBtn.addEventListener('click', function(){
   parseFloat((uiBillTotalInput) + parseFloat(tipAmount)).toFixed(2);
   // Price per person
   let uiEachPersonPays = document.getElementById('each_person_pays_display').value = parseFloat(uiBillTotalDisplay / uiNumberOfPeopleInput).toFixed(2);
-  console.log("Total Bill" + uiBillTotalInput)
-  console.log("Tip Amount" + tipAmount)
-  console.log("Price per person" + uiEachPersonPays)
-  console.log("Total bill" + uiBillTotalDisplay)
 });
 
 // Reset Calculator Button
