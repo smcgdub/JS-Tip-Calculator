@@ -1,0 +1,21 @@
+/* Global */
+
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* Animation effects */
+:root {
+  --animate-duration: 1500ms;
+  --animate-delay: 0.9s;
+}
+
+/* Body */
+body {
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  overflow-x: hidden;
+}
