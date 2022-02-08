@@ -22,3 +22,13 @@ calculateBtn.addEventListener('click', function(){
   console.log("Price per person" + uiEachPersonPays)
   console.log("Total bill" + uiBillTotalDisplay)
 });
+
+// Reset Calculator Button
+resetBtn.addEventListener('click', function(){
+  document.getElementById('bill_total_input').value = '';
+  document.getElementById('tip_percent_input').value = '';
+  document.getElementById('number_of_people_input').value = '';
+  document.getElementById('bill_total_display').value = '';
+  document.getElementById('tip_percent_display').value = '';
+  document.getElementById('each_person_pays_display').value = '';
+});
