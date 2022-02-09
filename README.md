@@ -280,7 +280,7 @@ Feel free to contact me on any of the following channels:<br>
 
 * 7.1 [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)<br>
 * 7.2 [Email](mailto:stephen_xyz1@hotmail.com)<br>
-* 7.3 [Skype](live:.cid.c60777f26a9655f2)
+* 7.3 [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
 </details>
 
 <hr>
