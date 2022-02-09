@@ -1,4 +1,4 @@
-# **Simple JavaScript Tip Calculator Testing**
+d# **Simple JavaScript Tip Calculator Testing**
 ![Homepage displayed on multiple devices](assets/images/am_i_responsive.png)
 >
 ## **Table of contents** ##
@@ -14,9 +14,9 @@
 * 2.1 Manual testing desktop
 * 2.2 Manual testing mobile
 
-### **3. JavaScript Specific Testing** ###
+### **3. JavaScript Console Testing** ###
 
-* This section is the most detailed and contains all the information from all of the testing of each Javascript file.
+* 3.1 Test results from the console
 
 <hr>
 
@@ -61,53 +61,51 @@
 <summary><strong>2. Manual Testing</strong></summary>
 <br>
 
-**2.1 Manual testing desktop**
+#### **2.1 Manual testing desktop**
 
-All desktop testing was carried out on Chrome, FireFox and Safari. 
+* All desktop testing was carried out on Chrome, FireFox, Safari and Opera. 
 
-**1. Navbar**
+**i. Navbar**
 
-**2. User Inputs**
+* The Navbar is functioning as normal with no issues
 
-**3. Action Buttons**
+**ii. User Inputs**
 
-**4. Bill Breakdown**
+* The User Inputs are functioning as normal with no issues
 
-**5. Footer**
+**iii. Action Buttons**
+
+* The Action Buttons are functioning as normal with no issues
+
+**iv. Bill Breakdown**
+
+* The Action Buttons are functioning as normal with no issues
+
+**v. Footer**
+
+* The footer is static and has no functioning parts. It is being displayed as normal.
+
+
+#### **2.2 Manual testing mobile**
+
+* All mobile testing was carried out on tablet and mobile phones using Chrome, FireFox and Opera. To save repetition, unless there has been an issue highlighted below, then the site has functionality is normal. 
+
+**i. Navbar**<br>
+**ii. User Inputs**<br>
+**iii. Action Buttons**<br>
+**iv. Bill Breakdown**<br>
+**v. Footer**<br>
 </details>
 
 <hr>
 
 <details>
-<summary><strong>2.1 Manual testing mobile</strong></summary>
+<summary><strong>3. JavaScript Console Testing</strong></summary>
 <br/>
 
-**1. Navbar**
+#### **3.1 Console Testing**
 
-**2. User Inputs**
-
-**3. Action Buttons**
-
-**4. Bill Breakdown**
-
-**5. Footer**
-</details>
-
-<hr>
-
-<details>
-<summary><strong>3. JavaScript Specific Testing</strong></summary>
-
-There is only 1 single JavaScript file in the project which is the app.js file
-
-**TESTING OF THE APP.JS FILE**
-
-The testing for the app.js file was carried out on [JShint.com](https://jshint.com/) The results from the test were as follows:
-
-![Image of app.js file test results](assets/readme-images/app-js-test-results.png)
-
-### **D) Console Testing** ###
-
+* There are no errors displaying when the console testing was carried out
 </details>
 
 <hr>

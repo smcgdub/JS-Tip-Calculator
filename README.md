@@ -34,6 +34,7 @@ A little mini JavaScript project that allows users to work out the cost of a bil
   * 3.7 Icons8
   * 3.8 Balsamiq
   * 3.9 Animate.css
+  * 3.10 favicon.io
 
 ### **4. Testing**
   * 4.1 See [testing.md](testing.md) document 
@@ -177,7 +178,8 @@ A little mini JavaScript project that allows users to work out the cost of a bil
 3.6 [Google fonts](https://fonts.google.com/) - Launched in 2010 Google Fonts is a library of 1,023 free licensed font families.<br>
 3.7 [Icons8](https://icons8.com/) - You can see a short YouTube video about Icons8 by clicking [Here](https://www.youtube.com/watch?v=C4TcBmdaa-Q&t=40s).<br>
 3.8 [Balsamiq](https://balsamiq.com/)- Balsamiq Wireframes is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard.
-3.9 [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+3.9 [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.<br>
+3.10 [favicon.io](https://favicon.io/) - Favicon.io is the free favicon generator i used for the project
 </details>
 
 <hr>
